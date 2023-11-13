@@ -1,7 +1,5 @@
 # hola.
 
-![it's-a me, mario](https://cdn.wpa.io/assets/img/avatar.silentbob.2023.tn-256x256.png)
-
 **william anderson = neuro**
 
 sysadmin. cloud bod. server monkey.

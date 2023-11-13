@@ -1,16 +1,20 @@
-### Hi there 👋
+# hola.
 
-<!--
-**evilneuro/evilneuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![it's-a me, mario](https://cdn.wpa.io/assets/img/avatar.silentbob.2023.tn-256x256.png)
 
-Here are some ideas to get you started:
+**william anderson = neuro**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sysadmin. cloud bod. server monkey.
+
+[home](https://wpa.io/) |
+[github](https://github.com/evilneuro) | 
+[linkedin](https://www.linkedin.com/in/neuro) | 
+[threads](https://threads.net/neuro) | 
+[twitter](https://twitter.com/evilneuro) | 
+[instagram](https://instagram.com/neuro) | 
+[youtube](https://youtube.com/neuro) | 
+[credly](https://www.credly.com/users/neuro/badges?sort=-state_updated_at&page=1) | 
+[keybase](https://keybase.io/neuro)
+
+[<img src="https://cdn.wpa.io/assets/img/aws-cert-clf-c02-128x128.png"/>](https://www.credly.com/badges/59d5cc55-f546-47be-849c-9940978466ac)
+[<img src="https://cdn.wpa.io/assets/img/aws-cert-soa-c02-128x128.png"/>](https://www.credly.com/badges/69dff020-9225-48db-8ddf-8cee3be4e3f9)

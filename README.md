@@ -8,6 +8,7 @@ sysadmin. cloud bod. server monkey.
 [github](https://github.com/evilneuro) | 
 [linkedin](https://www.linkedin.com/in/neuro) | 
 [threads](https://threads.net/neuro) | 
+[masto](https://mastodon.social/@neuro) |
 [twitter](https://twitter.com/evilneuro) | 
 [instagram](https://instagram.com/neuro) | 
 [youtube](https://youtube.com/neuro) | 
